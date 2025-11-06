@@ -104,7 +104,6 @@ def start(update: Update, context: CallbackContext):
     )
 
 
-"
         "ملاحظة: هذا بوت تعليمي. الإشارات ليست توصية استثمارية."
     )
 
