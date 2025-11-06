@@ -1,1 +1,4 @@
-python-telegram-bot==13.15
+echo "python-3.11.4" > runtime.txt
+git add runtime.txt
+git commit -m "ci: pin python runtime to python-3.11.4 for Render"
+git push origin main
